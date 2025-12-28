@@ -1,0 +1,46 @@
+/* Font settings. */
+@font-face {
+	font-family: 'Montserrat-Black';
+	src: url('../fonts/Montserrat-Black.ttf');
+}
+
+@font-face {
+	font-family: 'NotoSans-Bold';
+	src: url('../fonts/NotoSans-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Gen4';
+	src: url('../fonts/Actual_Gen_4_Font.ttf');
+}
+
+/* General settings. */
+body {
+	font-family: 'NotoSans-Bold';
+	color: white;
+	width: 1920px;
+	height: 1080px;
+	/* position: absolute; */
+	margin: 0px;
+}
+
+/* Commentator name and pronouns panel. */
+.comms-container {
+	position: absolute;
+	/* font-size: 27pt; */
+	/* color: white; */
+}
+
+.comms-name {
+	margin-right: 10px;
+	font-stretch: semi-condensed;
+	/* float: left; */
+	/* vertical-align: middle; */
+	width: 100%;
+}
+
+/* .comms-pronouns {
+	vertical-align: middle;
+	text-align: right;
+	float: right;
+} */

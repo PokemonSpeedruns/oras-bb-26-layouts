@@ -1,0 +1,39 @@
+/* Comms panel. */
+.comms-container {
+	width: 550px;
+	max-height: 68px;
+	line-height: 30px;
+	transform: translateX(-50%);
+	/* display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between; */
+
+}
+
+#comms-container1 {
+	left: 321px;
+	top: 632px;
+}
+
+#comms-container2 {
+	left: 50%;
+	top: 632px;
+}
+
+#comms-container3 {
+	left: 1581px;
+	top: 632px;
+}
+
+.comms-name {
+	max-width: 550px;
+	font-size: 28pt;
+	/* flex: 0 0 300px; */
+	/* text-align: center; */
+	/* display: inline-block; */
+	/* height: 40px; */
+}
+.comms-pronouns {
+	font-size: 16pt;
+} 
+
