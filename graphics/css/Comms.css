@@ -11,7 +11,7 @@
 }
 
 #comms-container1 {
-	left: 321px;
+	left: 325px;
 	top: 632px;
 }
 
@@ -21,19 +21,19 @@
 }
 
 #comms-container3 {
-	left: 1581px;
+	left: 1585px;
 	top: 632px;
 }
 
 .comms-name {
 	max-width: 550px;
-	font-size: 28pt;
+	font-size: 26pt;
 	/* flex: 0 0 300px; */
 	/* text-align: center; */
 	/* display: inline-block; */
 	/* height: 40px; */
 }
 .comms-pronouns {
-	font-size: 16pt;
+	font-size: 15pt;
 } 
 

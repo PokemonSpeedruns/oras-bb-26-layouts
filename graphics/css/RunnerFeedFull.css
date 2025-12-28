@@ -2,26 +2,25 @@
     display: flex;
     align-items: stretch;
     width: 1000px;
-    height: 185px;
-    font-family: 'Gen4';
+    height: 215px;
     color: white;
     position: relative;
     transform-origin: top left;
     transform: scale(0.48);
     position: absolute;
-    top: 18px;
+    top: 5px;
     left: 15px;
 }
 
 .runner-game {
-    flex: 0 0 80px;
+    flex: 0 0 100px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .runner-game > .game-img {
-    max-height: 90%;
+    height: 75%;
     width: auto;
     transform: translateY(-15px);
 }
@@ -42,14 +41,13 @@
 }
 
 .runner-name {
-    font-size: 55pt;
+    font-size: 76pt;
     max-width: 800px;
-    margin-right: 10px;
 }
 
 .runner-bottom-row {
     position: absolute;
-    top: 85px;
+    top: 110px;
     align-items: center;
     font-size: 35pt;
     color: white;

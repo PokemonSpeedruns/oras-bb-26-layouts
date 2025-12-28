@@ -9,11 +9,6 @@
 	src: url('../fonts/NotoSans-Bold.ttf');
 }
 
-@font-face {
-	font-family: 'Gen4';
-	src: url('../fonts/Actual_Gen_4_Font.ttf');
-}
-
 /* General settings. */
 body {
 	font-family: 'NotoSans-Bold';
