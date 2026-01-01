@@ -38,13 +38,14 @@
 	font-size: 16pt;
 }
 
-/* img {
+img {
   position: fixed;
-  bottom: 30px;
-  right: 200px;
+  bottom: 387px;
+  right: 7px;
   height: auto;
+  width: 350px;
   z-index: 2;
   pointer-events: none;
   transform-origin: bottom right;
-  transform: scale(0.95);
-} */
+  /* transform: scale(0.5); */
+}
