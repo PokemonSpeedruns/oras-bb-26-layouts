@@ -66,3 +66,26 @@
     margin-left: 10px;
     transform: translateY(-5px);
 }
+
+
+.iv-img {
+    position: fixed;
+    left: 407px;
+    height: auto;
+    width: 101px;
+    /* z-index: 2;
+    pointer-events: none;
+    transform-origin: top left; */
+}
+
+.mudkip-img {
+    top: 801px
+}
+
+.lati-img {
+    top: 887px
+}
+
+.legendary-img {
+    top: 977px
+}
