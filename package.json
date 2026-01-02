@@ -20,16 +20,6 @@
         "height": 1080
       },
       {
-        "file": "RunningFeeds_4Small.html",
-        "width": 1920,
-        "height": 1080
-      },
-      {
-        "file": "RunningFeeds_5Small.html",
-        "width": 1920,
-        "height": 1080
-      },
-      {
         "file": "RunnerFeedFull.html",
         "width": 1920,
         "height": 1080
@@ -42,6 +32,11 @@
       
       {
         "file": "BackgroundWithComms.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "BackgroundWithCommsNoLogo.html",
         "width": 1920,
         "height": 1080
       },
@@ -61,11 +56,6 @@
         "height": 1080
       },
       {
-        "file": "BreakWithRunner.html",
-        "width": 1920,
-        "height": 1080
-      },
-      {
         "file": "Standings.html",
         "width": 1920,
         "height": 1080
@@ -77,6 +67,11 @@
       },
       {
         "file": "Ticker.html",
+        "width": 1920,
+        "height": 99
+      },
+      {
+        "file": "TickerBackground.html",
         "width": 1920,
         "height": 99
       },

@@ -2,13 +2,13 @@
     display: flex;
     align-items: stretch;
     width: 1000px;
-    height: 215px;
+    height: 220px;
     color: white;
     position: relative;
     transform-origin: top left;
     transform: scale(0.48);
     position: absolute;
-    top: 5px;
+    top: 3px;
     left: 15px;
 }
 
@@ -41,13 +41,13 @@
 }
 
 .runner-name {
-    font-size: 76pt;
+    font-size: 72pt;
     max-width: 800px;
 }
 
 .runner-bottom-row {
     position: absolute;
-    top: 110px;
+    top: 120px;
     align-items: center;
     font-size: 35pt;
     color: white;

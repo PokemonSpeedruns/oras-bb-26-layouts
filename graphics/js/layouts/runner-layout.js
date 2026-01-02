@@ -39,13 +39,13 @@ $(() => {
 				// Update flag.
 				$('#flag-img').attr('src', 'img/flags/' + player.country + '.png');
 
-				// Update starter.
+				// Update game.
 				$('#game-img').attr('src', 'img/logos/' + player.customData.runnerStarter + '.png');
 
-				if (player.customData.runnerStarter === "Omega Ruby") {
+				if (player.customData.runnerStarter === "or") {
 					$('#lati-img').attr('src', 'img/logos/Shuffle381.png');
 					$('#legendary-img').attr('src', 'img/logos/Shuffle383.png');
-				} else if (player.customData.runnerStarter === "Alpha Sapphire") {
+				} else if (player.customData.runnerStarter === "as") {
 					$('#lati-img').attr('src', 'img/logos/Shuffle380.png');
 					$('#legendary-img').attr('src', 'img/logos/Shuffle382.png');
 				}
