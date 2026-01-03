@@ -1,7 +1,7 @@
 /* Comms panel. */
 .comms-container {
-	width: 550px;
-	max-height: 68px;
+	width: 500px;
+	max-height: 70px;
 	line-height: 30px;
 	transform: translateX(-50%);
 	/* display: flex;
@@ -11,22 +11,25 @@
 }
 
 #comms-container1 {
-	left: 325px;
+	/* left: 325px; */
+	left: 339px;
 	top: 632px;
 }
 
 #comms-container2 {
-	left: 50%;
+	/* left: 50%; */
+	left: 971px;
 	top: 632px;
 }
 
 #comms-container3 {
-	left: 1585px;
+	/* left: 1585px; */
+	left: 1602px;
 	top: 632px;
 }
 
 .comms-name {
-	max-width: 550px;
+	max-width: 500px;
 	font-size: 26pt;
 	/* flex: 0 0 300px; */
 	/* text-align: center; */
@@ -34,6 +37,7 @@
 	/* height: 40px; */
 }
 .comms-pronouns {
+	margin-top: 2px;
 	font-size: 15pt;
 } 
 

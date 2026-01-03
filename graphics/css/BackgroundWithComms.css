@@ -24,7 +24,7 @@
 
 /* Comms name dynamic text. */
 .comms-name {
-	max-width: 270px;
+	max-width: 265px;
 	/* text-align: center; */
 	float: left;
 	vertical-align: middle;
@@ -34,7 +34,7 @@
 	vertical-align: middle;
 	text-align: middle;
 	float: right;
-	width: 90px;
+	width: 95px;
 	font-size: 17pt;
 }
 
