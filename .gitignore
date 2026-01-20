@@ -2,3 +2,7 @@ node_modules
 coverage
 bower_components
 .parcel-cache
+logs/
+db/
+bundles/
+cfg/
