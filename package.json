@@ -29,7 +29,6 @@
         "width": 700,
         "height": 610
       },
-      
       {
         "file": "BackgroundWithComms.html",
         "width": 1920,
@@ -85,8 +84,18 @@
         "width": 1920,
         "height": 1080
       }
-    ]
+    ],
+    "dashboardPanels": [{
+      "name": "switch runner panel",
+      "title": "Switch Main Runner",
+      "file": "SwitchMainScreen.html",
+      "width": 2
+    }]
   },
   "repository": "https://github.com/PokemonSpeedruns/oras-bb-26-layouts.git",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "nodecg": "^2.6.4",
+    "obs-websocket-js": "^5.0.7"
+  }
 }
